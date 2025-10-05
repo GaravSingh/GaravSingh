@@ -19,10 +19,10 @@
 ## 🧰 Tech Stack
 
 ### 💻 Programming & Tools
-- **Languages:** Python, Java, JavaScript, HTML, CSS  
-- **Frameworks:** React.js, Flask  
-- **Databases:** MySQL, Firebase  
-- **Tools:** Git, VS Code, Postman  
+- **Languages:** Python, Java, JavaScript, HTML, CSS, C++, C 
+- **Web:** React.js, Express, Angular  
+- **Databases:** MySQL, Firebase, MondoDB, SQL, PostgreSQL  
+- **Tools:** Git, VS Code, AWS, Google Cloud Consolw, Docker, CI/CD  
 
 ### 🕹️ Projects I'm Proud Of
 - 🎯 **Aim Trainer Game:** Hit the target, score points (built in JS)  
